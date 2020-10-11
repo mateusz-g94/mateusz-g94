@@ -1,16 +1,27 @@
 ### Hi there 👋
+</br>
 
-<!--
-**mateusz-g94/mateusz-g94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on machine learning and deep learning projects.
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies & Tools
+[![python](https://img.shields.io/badge/code-Python-blue)]()
+[![python](https://img.shields.io/badge/code-Scala-blue)]()
+[![python](https://img.shields.io/badge/code-4GL-blue)]()
+[![python](https://img.shields.io/badge/code-SQL-blue)]()
+[![python](https://img.shields.io/badge/code-NoSQL-blue)]()
+[![python](https://img.shields.io/badge/code-C++-blue)]()
+
+</br>
+
+[![python](https://img.shields.io/badge/shell-Bash-blue)]()
+
+</br>
+
+[![python](https://img.shields.io/badge/tool-MSSQL-blue)]()
+[![python](https://img.shields.io/badge/tool-MySQL-blue)]()
+[![python](https://img.shields.io/badge/tool-MongoDB-blue)]()
+[![python](https://img.shields.io/badge/tool-SAS-blue)]()
+
+
