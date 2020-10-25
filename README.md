@@ -13,6 +13,7 @@
 [![python](https://img.shields.io/badge/code-NoSQL-blue)]()
 [![python](https://img.shields.io/badge/code-C++-blue)]()
 [![python](https://img.shields.io/badge/shell-Bash-blue)]()
+[![python](https://img.shields.io/badge/vc-git-blue)]()
 
 
 
